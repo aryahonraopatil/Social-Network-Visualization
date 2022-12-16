@@ -1,6 +1,4 @@
 '''
-Author: Salem Soin-Voshell
-Filename: main.py
 Description: Uses a hashtag and scrapes posts using it.
 '''
 
