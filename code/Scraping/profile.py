@@ -1,6 +1,4 @@
 '''
-Author: Salem Soin-Voshell
-Filename: profile.py
 Description: Uses a list of instagram accounts and cycles through them, downloading x number of their latest posts, 
 and information related to posts. If posts are geotagged, it will attempt to translate that to long, lat. 
 All information is stored in pandas dataframes and exported to a csv after every account is scraped.
