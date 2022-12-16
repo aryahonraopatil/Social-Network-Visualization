@@ -1,6 +1,7 @@
 # SocialPlanet
 The idea of the project is to analyze the effect of location on the network between people from all over the world by targeting the travel history of social media users and their connections. The users would be able to see how the network changes over time, travel patterns of people, possible changes in popularity over time and many more. 
 
+![This is an image](/SocialPlanet/blob/main/paper_source/figures/fig5a.jpg)
 
 ## The-Social-Planet\
 ├── code\
