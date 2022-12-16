@@ -1,8 +1,3 @@
-'''
-Author: Salem Soin-Voshell
-Filename: network.py
-Description: 
-'''
 
 #Selenium Imports
 from ast import Slice
