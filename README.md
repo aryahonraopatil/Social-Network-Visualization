@@ -34,9 +34,6 @@ The idea of the project is to analyze the effect of location on the network betw
 │	 │	 ├── fig5a.png\
 │	 │	 ├── fig5b.png\
 │	 │	 └── fig5c.png\
-│	 └── text\
-│		 ├── final_paper.txt\
-│		 └── final_paper.pdf\
 └── README.md
 
 To display the visualization on the Magic Planet, Processing is required. When plugging in the Magic Planet, make sure to set the projector to 1600x1200.
